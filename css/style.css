@@ -1,0 +1,11 @@
+svg{
+    height:500px;
+    width:1024px;
+}
+
+#normal-pizza{
+  opacity: 1;  
+}
+#normal-pizza:hover{
+  opacity: 0;
+}
